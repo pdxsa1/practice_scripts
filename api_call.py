@@ -8,4 +8,4 @@ data = bitcoin.json()
 # print(data)
 
 bitcoin_price = data["data"]["amount"]
-print(bitcoin_price)
+print(f"The current BitCoin price is: {bitcoin_price}")
