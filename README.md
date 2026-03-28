@@ -18,3 +18,4 @@ Fetches live Bitcoin price data from the Coinbase public API and parses the resp
 - File system automation with the os module
 - REST API calls and JSON parsing
 - Python datetime handling
+- Creating a Dockerfile
